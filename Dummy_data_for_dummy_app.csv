@@ -1,0 +1,201 @@
+﻿SKU,Location,Category,Quantity,Unit_Value,Total_Inventory_Value,Lead_Time_Days,Storage_Type,Supplier_Region,Criticality
+SKU-1000,Dubai Freezone,Mechanical,245,154.2,37779,42,Ambient,EMEA,Medium
+SKU-1001,Rotterdam Hub,Electronics,412,89.5,36874,14,High Security,APAC,High
+SKU-1002,Los Angeles WH,Packaging,120,12.75,1530,7,Ambient,AMER,Low
+SKU-1003,Shanghai Port,Raw Materials,488,320.1,156208.8,55,Hazardous,APAC,Critical
+SKU-1004,Savannah Logistics,Mechanical,89,442,39338,28,Ambient,EMEA,Medium
+SKU-1005,Dubai Freezone,Electronics,334,210.6,70340.4,19,Cold Chain,APAC,High
+SKU-1006,Rotterdam Hub,Raw Materials,156,45.2,7051.2,33,Ambient,EMEA,Low
+SKU-1007,Los Angeles WH,Mechanical,210,188.4,39564,45,High Security,AMER,Medium
+SKU-1008,Shanghai Port,Packaging,500,15.3,7650,12,Ambient,APAC,Low
+SKU-1009,Savannah Logistics,Electronics,72,495.8,35697.6,60,Cold Chain,AMER,Critical
+SKU-1010,Dubai Freezone,Raw Materials,289,112.4,32483.6,25,Hazardous,EMEA,High
+SKU-1011,Rotterdam Hub,Mechanical,143,230.15,32911.45,38,Ambient,APAC,Medium
+SKU-1012,Los Angeles WH,Electronics,398,55.9,22248.2,10,High Security,AMER,Low
+SKU-1013,Shanghai Port,Packaging,267,18.45,4926.15,15,Ambient,APAC,Medium
+SKU-1014,Savannah Logistics,Raw Materials,411,380,156180,48,Hazardous,EMEA,Critical
+SKU-1015,Dubai Freezone,Mechanical,188,95.6,17972.8,22,Ambient,APAC,Low
+SKU-1016,Rotterdam Hub,Electronics,55,412.3,22676.5,31,Cold Chain,EMEA,High
+SKU-1017,Los Angeles WH,Packaging,320,11.2,3584,9,Ambient,AMER,Low
+SKU-1018,Shanghai Port,Mechanical,442,125.75,55581.5,40,High Security,APAC,Medium
+SKU-1019,Savannah Logistics,Raw Materials,129,290.4,37461.6,52,Hazardous,EMEA,High
+SKU-1020,Dubai Freezone,Electronics,401,310.5,124510.5,21,Cold Chain,APAC,High
+SKU-1021,Rotterdam Hub,Mechanical,92,45,4140,15,Ambient,EMEA,Low
+SKU-1022,Los Angeles WH,Raw Materials,315,215.8,67977,45,Hazardous,AMER,Medium
+SKU-1023,Shanghai Port,Packaging,480,8.5,4080,10,Ambient,APAC,Low
+SKU-1024,Savannah Logistics,Electronics,210,500,105000,55,High Security,AMER,Critical
+SKU-1025,Dubai Freezone,Mechanical,333,120.4,40093.2,30,Ambient,EMEA,Medium
+SKU-1026,Rotterdam Hub,Electronics,145,299.9,43485.5,18,Cold Chain,EMEA,High
+SKU-1027,Los Angeles WH,Packaging,400,14.2,5680,12,Ambient,AMER,Low
+SKU-1028,Shanghai Port,Raw Materials,275,180.5,49637.5,40,Hazardous,APAC,Medium
+SKU-1029,Savannah Logistics,Mechanical,120,310,37200,35,High Security,EMEA,High
+SKU-1030,Dubai Freezone,Raw Materials,450,45.6,20520,22,Ambient,APAC,Low
+SKU-1031,Rotterdam Hub,Electronics,88,412,36256,50,Cold Chain,EMEA,Critical
+SKU-1032,Los Angeles WH,Packaging,310,19.5,6045,8,Ambient,AMER,Medium
+SKU-1033,Shanghai Port,Mechanical,190,240,45600,44,High Security,APAC,High
+SKU-1034,Savannah Logistics,Raw Materials,405,88.2,35721,25,Hazardous,EMEA,Low
+SKU-1035,Dubai Freezone,Electronics,267,155.4,41491.8,17,Cold Chain,APAC,Medium
+SKU-1036,Rotterdam Hub,Mechanical,115,480,55200,58,Ambient,EMEA,Critical
+SKU-1037,Los Angeles WH,Packaging,500,10,5000,11,Ambient,AMER,Low
+SKU-1038,Shanghai Port,Raw Materials,322,310.4,99948.8,36,Hazardous,APAC,High
+SKU-1039,Savannah Logistics,Electronics,178,220.5,39249,20,High Security,AMER,Medium
+SKU-1040,Dubai Freezone,Mechanical,230,190,43700,42,Ambient,EMEA,Low
+SKU-1041,Rotterdam Hub,Electronics,340,75.2,25568,14,Cold Chain,APAC,Medium
+SKU-1042,Los Angeles WH,Raw Materials,125,410.5,51312.5,48,Hazardous,AMER,Critical
+SKU-1043,Shanghai Port,Packaging,410,12.3,5043,9,Ambient,APAC,Low
+SKU-1044,Savannah Logistics,Mechanical,288,145.6,41932.8,31,High Security,EMEA,High
+SKU-1045,Dubai Freezone,Electronics,150,380,57000,24,Cold Chain,APAC,Medium
+SKU-1046,Rotterdam Hub,Raw Materials,480,52.4,25152,39,Ambient,EMEA,Low
+SKU-1047,Los Angeles WH,Mechanical,205,299.5,61397.5,41,High Security,AMER,High
+SKU-1048,Shanghai Port,Packaging,333,18,5994,13,Ambient,APAC,Medium
+SKU-1049,Savannah Logistics,Electronics,95,490,46550,52,Cold Chain,AMER,Critical
+SKU-1050,Dubai Freezone,Raw Materials,275,310.2,85305,28,Hazardous,EMEA,High
+SKU-1051,Rotterdam Hub,Mechanical,160,220,35200,34,Ambient,APAC,Medium
+SKU-1052,Los Angeles WH,Electronics,410,65,26650,11,High Security,AMER,Low
+SKU-1053,Shanghai Port,Packaging,220,15.5,3410,16,Ambient,APAC,Medium
+SKU-1054,Savannah Logistics,Raw Materials,390,395,154050,47,Hazardous,EMEA,Critical
+SKU-1055,Dubai Freezone,Mechanical,195,98.2,19149,21,Ambient,APAC,Low
+SKU-1056,Rotterdam Hub,Electronics,70,420.5,29435,30,Cold Chain,EMEA,High
+SKU-1057,Los Angeles WH,Packaging,350,12,4200,10,Ambient,AMER,Low
+SKU-1058,Shanghai Port,Mechanical,415,130,53950,38,High Security,APAC,Medium
+SKU-1059,Savannah Logistics,Raw Materials,140,285.5,39970,55,Hazardous,EMEA,High
+SKU-1060,Dubai Freezone,Electronics,380,305,115900,20,Cold Chain,APAC,High
+SKU-1061,Rotterdam Hub,Mechanical,110,50.2,5522,16,Ambient,EMEA,Low
+SKU-1062,Los Angeles WH,Raw Materials,320,220,70400,44,Hazardous,AMER,Medium
+SKU-1063,Shanghai Port,Packaging,490,9,4410,11,Ambient,APAC,Low
+SKU-1064,Savannah Logistics,Electronics,225,485.5,109237.5,58,High Security,AMER,Critical
+SKU-1065,Dubai Freezone,Mechanical,310,125,38750,32,Ambient,EMEA,Medium
+SKU-1066,Rotterdam Hub,Electronics,160,285,45600,19,Cold Chain,EMEA,High
+SKU-1067,Los Angeles WH,Packaging,385,13.8,5313,13,Ambient,AMER,Low
+SKU-1068,Shanghai Port,Raw Materials,290,175.4,50866,41,Hazardous,APAC,Medium
+SKU-1069,Savannah Logistics,Mechanical,135,305.5,41242.5,33,High Security,EMEA,High
+SKU-1070,Dubai Freezone,Raw Materials,440,48.2,21208,23,Ambient,APAC,Low
+SKU-1071,Rotterdam Hub,Electronics,95,405,38475,51,Cold Chain,EMEA,Critical
+SKU-1072,Los Angeles WH,Packaging,325,18.5,6012.5,9,Ambient,AMER,Medium
+SKU-1073,Shanghai Port,Mechanical,205,235.4,48257,43,High Security,APAC,High
+SKU-1074,Savannah Logistics,Raw Materials,415,90.5,37557.5,26,Hazardous,EMEA,Low
+SKU-1075,Dubai Freezone,Electronics,255,160,40800,18,Cold Chain,APAC,Medium
+SKU-1076,Rotterdam Hub,Mechanical,125,475.5,59437.5,57,Ambient,EMEA,Critical
+SKU-1077,Los Angeles WH,Packaging,480,11.5,5520,12,Ambient,AMER,Low
+SKU-1078,Shanghai Port,Raw Materials,315,305.2,96138,35,Hazardous,APAC,High
+SKU-1079,Savannah Logistics,Electronics,185,215,39775,21,High Security,AMER,Medium
+SKU-1080,Dubai Freezone,Mechanical,240,195.5,46920,41,Ambient,EMEA,Low
+SKU-1081,Rotterdam Hub,Electronics,330,78.5,25905,15,Cold Chain,APAC,Medium
+SKU-1082,Los Angeles WH,Raw Materials,130,415,53950,49,Hazardous,AMER,Critical
+SKU-1083,Shanghai Port,Packaging,420,13,5460,10,Ambient,APAC,Low
+SKU-1084,Savannah Logistics,Mechanical,295,140.4,41418,32,High Security,EMEA,High
+SKU-1085,Dubai Freezone,Electronics,160,375.2,60032,25,Cold Chain,APAC,Medium
+SKU-1086,Rotterdam Hub,Raw Materials,470,55,25850,40,Ambient,EMEA,Low
+SKU-1087,Los Angeles WH,Mechanical,215,305,65575,40,High Security,AMER,High
+SKU-1088,Shanghai Port,Packaging,340,17.5,5950,14,Ambient,APAC,Medium
+SKU-1089,Savannah Logistics,Electronics,105,485,50925,51,Cold Chain,AMER,Critical
+SKU-1090,Dubai Freezone,Raw Materials,265,305.4,80931,29,Hazardous,EMEA,High
+SKU-1091,Rotterdam Hub,Mechanical,170,215.5,36635,35,Ambient,APAC,Medium
+SKU-1092,Los Angeles WH,Electronics,400,68.2,27280,12,High Security,AMER,Low
+SKU-1093,Shanghai Port,Packaging,230,14.8,3404,17,Ambient,APAC,Medium
+SKU-1094,Savannah Logistics,Raw Materials,380,405,153900,46,Hazardous,EMEA,Critical
+SKU-1095,Dubai Freezone,Mechanical,205,95,19475,22,Ambient,APAC,Low
+SKU-1096,Rotterdam Hub,Electronics,80,415.5,33240,31,Cold Chain,EMEA,High
+SKU-1097,Los Angeles WH,Packaging,340,12.5,4250,11,Ambient,AMER,Low
+SKU-1098,Shanghai Port,Mechanical,405,135,54675,37,High Security,APAC,Medium
+SKU-1099,Savannah Logistics,Raw Materials,150,280.2,42030,54,Hazardous,EMEA,High
+SKU-1100,Dubai Freezone,Electronics,370,312,115440,21,Cold Chain,APAC,High
+SKU-1101,Rotterdam Hub,Mechanical,120,48.5,5820,17,Ambient,EMEA,Low
+SKU-1102,Los Angeles WH,Raw Materials,330,225.4,74382,43,Hazardous,AMER,Medium
+SKU-1103,Shanghai Port,Packaging,485,9.5,4607.5,12,Ambient,APAC,Low
+SKU-1104,Savannah Logistics,Electronics,235,475,111625,59,High Security,AMER,Critical
+SKU-1105,Dubai Freezone,Mechanical,300,130.5,39150,33,Ambient,EMEA,Medium
+SKU-1106,Rotterdam Hub,Electronics,170,290,49300,20,Cold Chain,EMEA,High
+SKU-1107,Los Angeles WH,Packaging,375,14.5,5437.5,14,Ambient,AMER,Low
+SKU-1108,Shanghai Port,Raw Materials,300,170.2,51060,42,Hazardous,APAC,Medium
+SKU-1109,Savannah Logistics,Mechanical,145,312.5,45312.5,32,High Security,EMEA,High
+SKU-1110,Dubai Freezone,Raw Materials,430,46.8,20124,24,Ambient,APAC,Low
+SKU-1111,Rotterdam Hub,Electronics,105,395,41475,52,Cold Chain,EMEA,Critical
+SKU-1112,Los Angeles WH,Packaging,335,17.2,5762,10,Ambient,AMER,Medium
+SKU-1113,Shanghai Port,Mechanical,215,225,48375,44,High Security,APAC,High
+SKU-1114,Savannah Logistics,Raw Materials,425,85.4,36295,27,Hazardous,EMEA,Low
+SKU-1115,Dubai Freezone,Electronics,245,165.2,40474,19,Cold Chain,APAC,Medium
+SKU-1116,Rotterdam Hub,Mechanical,135,465,62775,56,Ambient,EMEA,Critical
+SKU-1117,Los Angeles WH,Packaging,470,12.5,5875,13,Ambient,AMER,Low
+SKU-1118,Shanghai Port,Raw Materials,325,295,95875,34,Hazardous,APAC,High
+SKU-1119,Savannah Logistics,Electronics,195,210.2,40989,22,High Security,AMER,Medium
+SKU-1120,Dubai Freezone,Mechanical,250,200,50000,40,Ambient,EMEA,Low
+SKU-1121,Rotterdam Hub,Electronics,320,82.5,26400,16,Cold Chain,APAC,Medium
+SKU-1122,Los Angeles WH,Raw Materials,140,405,56700,50,Hazardous,AMER,Critical
+SKU-1123,Shanghai Port,Packaging,430,13.8,5934,11,Ambient,APAC,Low
+SKU-1124,Savannah Logistics,Mechanical,305,135,41175,33,High Security,EMEA,High
+SKU-1125,Dubai Freezone,Electronics,170,365.4,62118,26,Cold Chain,APAC,Medium
+SKU-1126,Rotterdam Hub,Raw Materials,460,58.5,26910,41,Ambient,EMEA,Low
+SKU-1127,Los Angeles WH,Mechanical,225,312,70200,39,High Security,AMER,High
+SKU-1128,Shanghai Port,Packaging,350,16.8,5880,15,Ambient,APAC,Medium
+SKU-1129,Savannah Logistics,Electronics,115,475.2,54648,50,Cold Chain,AMER,Critical
+SKU-1130,Dubai Freezone,Raw Materials,255,315,80325,30,Hazardous,EMEA,High
+SKU-1131,Rotterdam Hub,Mechanical,180,210,37800,36,Ambient,APAC,Medium
+SKU-1132,Los Angeles WH,Electronics,390,72.4,28236,13,High Security,AMER,Low
+SKU-1133,Shanghai Port,Packaging,240,14.2,3408,18,Ambient,APAC,Medium
+SKU-1134,Savannah Logistics,Raw Materials,370,415.5,153735,45,Hazardous,EMEA,Critical
+SKU-1135,Dubai Freezone,Mechanical,215,92.5,19887.5,23,Ambient,APAC,Low
+SKU-1136,Rotterdam Hub,Electronics,90,405,36450,32,Cold Chain,EMEA,High
+SKU-1137,Los Angeles WH,Packaging,330,13.5,4455,12,Ambient,AMER,Low
+SKU-1138,Shanghai Port,Mechanical,395,140.4,55458,36,High Security,APAC,Medium
+SKU-1139,Savannah Logistics,Raw Materials,160,275,44000,53,Hazardous,EMEA,High
+SKU-1140,Dubai Freezone,Electronics,360,318.5,114660,22,Cold Chain,APAC,High
+SKU-1141,Rotterdam Hub,Mechanical,130,45.2,5876,18,Ambient,EMEA,Low
+SKU-1142,Los Angeles WH,Raw Materials,340,230.1,78234,42,Hazardous,AMER,Medium
+SKU-1143,Shanghai Port,Packaging,480,10,4800,13,Ambient,APAC,Low
+SKU-1144,Savannah Logistics,Electronics,245,465.5,114047.5,58,High Security,AMER,Critical
+SKU-1145,Dubai Freezone,Mechanical,290,135.2,39208,34,Ambient,EMEA,Medium
+SKU-1146,Rotterdam Hub,Electronics,180,285.4,51372,21,Cold Chain,EMEA,High
+SKU-1147,Los Angeles WH,Packaging,365,15,5475,15,Ambient,AMER,Low
+SKU-1148,Shanghai Port,Raw Materials,310,165.5,51305,43,Hazardous,APAC,Medium
+SKU-1149,Savannah Logistics,Mechanical,155,315,48825,31,High Security,EMEA,High
+SKU-1150,Dubai Freezone,Raw Materials,420,49.2,20664,25,Ambient,APAC,Low
+SKU-1151,Rotterdam Hub,Electronics,115,385.5,44332.5,53,Cold Chain,EMEA,Critical
+SKU-1152,Los Angeles WH,Packaging,345,16.5,5692.5,11,Ambient,AMER,Medium
+SKU-1153,Shanghai Port,Mechanical,225,215.4,48465,45,High Security,APAC,High
+SKU-1154,Savannah Logistics,Raw Materials,435,82.3,35800.5,28,Hazardous,EMEA,Low
+SKU-1155,Dubai Freezone,Electronics,235,170.1,39973.5,20,Cold Chain,APAC,Medium
+SKU-1156,Rotterdam Hub,Mechanical,145,455.5,66047.5,55,Ambient,EMEA,Critical
+SKU-1157,Los Angeles WH,Packaging,460,13.2,6072,14,Ambient,AMER,Low
+SKU-1158,Shanghai Port,Raw Materials,335,285.4,95609,33,Hazardous,APAC,High
+SKU-1159,Savannah Logistics,Electronics,205,205.5,42127.5,23,High Security,AMER,Medium
+SKU-1160,Dubai Freezone,Mechanical,260,205.2,53352,39,Ambient,EMEA,Low
+SKU-1161,Rotterdam Hub,Electronics,310,85,26350,17,Cold Chain,APAC,Medium
+SKU-1162,Los Angeles WH,Raw Materials,150,395.4,59310,51,Hazardous,AMER,Critical
+SKU-1163,Shanghai Port,Packaging,440,14.5,6380,12,Ambient,APAC,Low
+SKU-1164,Savannah Logistics,Mechanical,315,130.2,41013,34,High Security,EMEA,High
+SKU-1165,Dubai Freezone,Electronics,180,355.5,63990,27,Cold Chain,APAC,Medium
+SKU-1166,Rotterdam Hub,Raw Materials,450,62,27900,42,Ambient,EMEA,Low
+SKU-1167,Los Angeles WH,Mechanical,235,318.4,74824,38,High Security,AMER,High
+SKU-1168,Shanghai Port,Packaging,360,16,5760,16,Ambient,APAC,Medium
+SKU-1169,Savannah Logistics,Electronics,125,465,58125,49,Cold Chain,AMER,Critical
+SKU-1170,Dubai Freezone,Raw Materials,245,320.4,78498,31,Hazardous,EMEA,High
+SKU-1171,Rotterdam Hub,Mechanical,190,205,38950,37,Ambient,APAC,Medium
+SKU-1172,Los Angeles WH,Electronics,380,75.2,28576,14,High Security,AMER,Low
+SKU-1173,Shanghai Port,Packaging,250,13.5,3375,19,Ambient,APAC,Medium
+SKU-1174,Savannah Logistics,Raw Materials,360,425,153000,44,Hazardous,EMEA,Critical
+SKU-1175,Dubai Freezone,Mechanical,225,90.2,20295,24,Ambient,APAC,Low
+SKU-1176,Rotterdam Hub,Electronics,100,395.5,39550,33,Cold Chain,EMEA,High
+SKU-1177,Los Angeles WH,Packaging,320,14.2,4544,13,Ambient,AMER,Low
+SKU-1178,Shanghai Port,Mechanical,385,145,55825,35,High Security,APAC,Medium
+SKU-1179,Savannah Logistics,Raw Materials,170,265.4,45118,52,Hazardous,EMEA,High
+SKU-1180,Dubai Freezone,Electronics,350,325.2,113820,23,Cold Chain,APAC,High
+SKU-1181,Rotterdam Hub,Mechanical,140,42.5,5950,19,Ambient,EMEA,Low
+SKU-1182,Los Angeles WH,Raw Materials,350,235,82250,41,Hazardous,AMER,Medium
+SKU-1183,Shanghai Port,Packaging,470,11,5170,14,Ambient,APAC,Low
+SKU-1184,Savannah Logistics,Electronics,255,455.4,116127,57,High Security,AMER,Critical
+SKU-1185,Dubai Freezone,Mechanical,280,140,39200,35,Ambient,EMEA,Medium
+SKU-1186,Rotterdam Hub,Electronics,190,280.2,53238,22,Cold Chain,EMEA,High
+SKU-1187,Los Angeles WH,Packaging,355,16,5680,16,Ambient,AMER,Low
+SKU-1188,Shanghai Port,Raw Materials,320,160.5,51360,44,Hazardous,APAC,Medium
+SKU-1189,Savannah Logistics,Mechanical,165,318.5,52552.5,30,High Security,EMEA,High
+SKU-1190,Dubai Freezone,Raw Materials,410,52.4,21484,26,Ambient,APAC,Low
+SKU-1191,Rotterdam Hub,Electronics,125,375,46875,54,Cold Chain,EMEA,Critical
+SKU-1192,Los Angeles WH,Packaging,355,15.8,5609,12,Ambient,AMER,Medium
+SKU-1193,Shanghai Port,Mechanical,235,210.2,49397,46,High Security,APAC,High
+SKU-1194,Savannah Logistics,Raw Materials,445,80,35600,29,Hazardous,EMEA,Low
+SKU-1195,Dubai Freezone,Electronics,225,175.5,39487.5,21,Cold Chain,APAC,Medium
+SKU-1196,Rotterdam Hub,Mechanical,155,445,68975,54,Ambient,EMEA,Critical
+SKU-1197,Los Angeles WH,Packaging,450,14.5,6525,15,Ambient,AMER,Low
+SKU-1198,Shanghai Port,Raw Materials,345,275.4,95013,32,Hazardous,APAC,High
+SKU-1199,Savannah Logistics,Electronics,215,200.5,43107.5,24,High Security,AMER,Medium
